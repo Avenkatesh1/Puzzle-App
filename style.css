@@ -129,3 +129,7 @@ body {
   bottom: 5px;
   right: 5px;
 }
+.next{
+  text-align:end;
+  margin: 20px;
+}
